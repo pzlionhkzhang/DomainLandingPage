@@ -13,6 +13,8 @@
     "@astrojs/check": "^0.9.3",
     "@astrojs/react": "^3.6.2",
     "@astrojs/tailwind": "^5.1.1",
+    "@fontsource/libre-baskerville": "^5.1.0",
+    "@fontsource/shippori-mincho-b1": "^5.1.0",
     "@radix-ui/react-label": "^2.1.0",
     "@react-three/fiber": "^8.17.9",
     "@tabler/icons-react": "^3.19.0",

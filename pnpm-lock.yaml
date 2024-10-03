@@ -17,6 +17,12 @@ importers:
       '@astrojs/tailwind':
         specifier: ^5.1.1
         version: 5.1.1(astro@4.15.9(rollup@4.22.5)(typescript@5.6.2))(tailwindcss@3.4.13)
+      '@fontsource/libre-baskerville':
+        specifier: ^5.1.0
+        version: 5.1.0
+      '@fontsource/shippori-mincho-b1':
+        specifier: ^5.1.0
+        version: 5.1.0
       '@radix-ui/react-label':
         specifier: ^2.1.0
         version: 2.1.0(@types/react-dom@18.3.0)(@types/react@18.3.10)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -394,6 +400,12 @@ packages:
     engines: {node: '>=12'}
     cpu: [x64]
     os: [win32]
+
+  '@fontsource/libre-baskerville@5.1.0':
+    resolution: {integrity: sha512-+NWyl39FNbrJDQixcJJAnnGMWBJZWtnLWjH2OLp+0VnHdsuVH2jnBPIqID0xschDYC497oKtQiVy0s0UUjb5/g==}
+
+  '@fontsource/shippori-mincho-b1@5.1.0':
+    resolution: {integrity: sha512-tEVkF/s/JxHNV3EONlUyjxuqgxzsD+M3uzwnK3xnRMAvubwRzemGSH2pzA8V7dPp7ub+W5cUgORiUQGVLDUZKQ==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -2734,6 +2746,10 @@ snapshots:
 
   '@esbuild/win32-x64@0.21.5':
     optional: true
+
+  '@fontsource/libre-baskerville@5.1.0': {}
+
+  '@fontsource/shippori-mincho-b1@5.1.0': {}
 
   '@img/sharp-darwin-arm64@0.33.5':
     optionalDependencies:

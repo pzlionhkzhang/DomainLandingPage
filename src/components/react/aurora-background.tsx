@@ -3,6 +3,8 @@
 import { motion } from "framer-motion";
 import React, { useEffect } from "react";
 import { AuroraBackground } from "src/components/react/aceternityui/aurora-background.tsx";
+import '@fontsource/libre-baskerville/400.css';
+import '@fontsource/libre-baskerville/700.css';
 
 export function AuroraBackgroundDemo() {
     useEffect(() => {
@@ -37,9 +39,9 @@ export function AuroraBackgroundDemo() {
                     }}
                     className="backdrop-blur-lg bg-white/30 dark:bg-black/30 p-8 rounded-2xl shadow-lg text-center border border-neutral-300 dark:border-white/20 aspect-[3/4] w-full max-w-sm"
                 >
-                    <h2 className="text-2xl md:text-4xl font-bold dark:text-white">
+                    <h1 className="text-2xl md:text-4xl font-bold dark:text-white">
                         Welcome to Aceternity
-                    </h2>
+                    </h1>
                     <p className="text-base md:text-lg dark:text-neutral-200 mt-4">
                         Login to aceternity if you can because we don't have a login flow yet
                     </p>
