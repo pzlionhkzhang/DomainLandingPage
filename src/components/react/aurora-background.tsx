@@ -49,7 +49,7 @@ export function AuroraBackgroundDemo() {
                     </p>
                     <p className="text-base md:text-lg dark:text-neutral-200 mt-4">
                         Contact: <br/>
-                        <a href="owner@true.cx" className="text-blue-500 hover:underline">
+                        <a href="mailto:owner@true.cx" className="text-blue-500 hover:underline">
                             owner@true.cx
                         </a>
                     </p>
