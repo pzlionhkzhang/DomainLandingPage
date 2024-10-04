@@ -47,10 +47,10 @@ export function AuroraBackgroundDemo() {
                         "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
                         <br/> — Isaac Newton(1643-1727)
                     </p>
-                    <p className="text-base md:text-lg dark:text-neutral-200 mt-4">
+                    <p className="text-base md:text-s dark:text-neutral-200 mt-4">
                         Contact: <br/>
-                        <a href="mailto:owner@true.cx" className="text-blue-500 hover:underline">
-                            owner@true.cx
+                        <a href="mailto:nyaa66@outlook.com" className="text-blue-500 hover:underline">
+                            nyaa66@outlook.com
                         </a>
                     </p>
                 </motion.div>
