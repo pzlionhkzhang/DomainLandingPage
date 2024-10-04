@@ -1,5 +1,5 @@
 
-适用于True.cx的Landing Page 使用用Astro和Aceternity UI搭建。
+适用于True.cx的Landing Page，使用了Astro和Aceternity UI搭建。
 
 Astro和Aceternity的结合使用参考了以下文章：
 https://www.linkedin.com/pulse/use-aceternity-ui-components-astrojs-jose-pablo-feng-hcs7e
